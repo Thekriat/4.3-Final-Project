@@ -1,0 +1,32 @@
+[
+      {
+          "name": "Mashed Potatoes",
+          "ingredients": ["2 pounds russet potatoes", "1/2 cup milk", "1/4 cup butter", "Salt and pepper to taste"],
+          "directions": ["Peel and cut potatoes into chunks. Boil until tender.", "Drain and mash potatoes. Stir in milk and butter and season with salt and pepper."],
+          "nutritionFacts": ["Calories: 200", "Protein: 3g", "Carbs: 35g", "Fat: 7g"]
+      },
+      {
+          "name": "Green Beans",
+          "ingredients": ["1 pound fresh green beans", "1 tablespoon olive oil", "2 cloves garlic", "Salt and pepper to taste"],
+          "directions": ["Blanch green beans in boiling water.", "Heat oil in a skillet and sauté garlic until fragrant. Add green beans and season with salt and pepper."],
+          "nutritionFacts": ["Calories: 80", "Protein: 2g", "Carbs: 8g", "Fat: 5g"]
+      },
+      {
+          "name": "Garlic Bread",
+          "ingredients": ["1 loaf French bread", "1/2 cup butter", "2 cloves garlic", "1/4 cup chopped parsley"],
+          "directions": ["Preheat oven to 375°F.", "Combine butter, garlic, and parsley and spread on cut sides of bread.", "Bake until golden."],
+          "nutritionFacts": ["Calories: 200", "Protein: 4g", "Carbs: 25g", "Fat: 10g"]
+      },
+      {
+          "name": "Coleslaw",
+          "ingredients": ["4 cups shredded cabbage", "1 carrot", "1/2 cup mayonnaise", "1 tablespoon vinegar", "1 tablespoon sugar", "Salt and pepper to taste"],
+          "directions": ["Combine cabbage and carrot in a bowl.", "In a separate bowl, whisk together mayonnaise, vinegar, sugar, salt, and pepper.", "Toss dressing with cabbage mixture."],
+          "nutritionFacts": ["Calories: 150", "Protein: 1g", "Carbs: 10g", "Fat: 12g"]
+      },
+      {
+          "name": "Macaroni and Cheese",
+          "ingredients": ["2 cups macaroni", "2 cups shredded sharp Cheddar cheese", "1/2 cup grated Parmesan cheese", "3 cups milk", "1/4 cup butter", "2 1/2 tablespoons all-purpose flour", "2 tablespoons butter", "1/2 cup bread crumbs", "1 pinch paprika"],
+          "directions": ["Cook macaroni according to the package directions. Drain.", "In a saucepan, melt butter or margarine over medium heat. Stir in enough flour to absorb all of the butter.", "Stir in milk, salt, and pepper. Cook, stirring constantly, until mixture comes to a boil.", "Stir in cheeses, and cook until melted; stir in cooked macaroni.", "Bake at 350 degrees F (175 degrees C) for 30 minutes. Serve."],
+          "nutritionFacts": ["Calories: 370", "Protein: 14g", "Carbs: 35g", "Fat: 20g"]
+      }
+  ]
