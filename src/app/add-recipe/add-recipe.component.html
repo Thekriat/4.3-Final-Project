@@ -1,0 +1,12 @@
+
+<form (submit)="addRecipe()">
+      <input [(ngModel)]="recipe.name" placeholder="Name" required>
+      
+      <textarea [(ngModel)]="recipe.ingredients" placeholder="Ingredients, separated by commas" required></textarea>
+      
+      <textarea [(ngModel)]="recipe.directions" placeholder="Directions, separated by periods" required></textarea>
+      
+      <input [(ngModel)]="recipe.nutritionFacts" placeholder="Nutrition Facts, separated by commas" required>
+      
+      <button type="submit">Add Recipe</button>
+    </form>
